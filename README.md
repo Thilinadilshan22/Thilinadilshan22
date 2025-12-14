@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 💬 Ask me about **Python, React, Nodejs, UI/UX Design (Figma/Canva)**
 
-🚀 Portfolio https://thilinadilshan22.github.io/my--portfolio/
+🚀 Portfolio **https://thilinadilshan22.github.io/my--portfolio/**
 
-📫 How to reach me: **thilinadilshan626@gmail.com**
+📫 How to reach me **thilinadilshan626@gmail.com**
 
 <br/>
 

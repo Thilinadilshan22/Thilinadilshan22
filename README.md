@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
-🚀 Portfolio: https://thilinadilshan22.github.io/my--portfolio/
+🚀 Portfolio https://thilinadilshan22.github.io/my--portfolio/
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 💬 Ask me about ...
@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
-- 🔭 I’m currently Following **Bsc (hons) Information System Degree**
+🔭 I’m currently Following **Bsc (hons) Information System Degree**
 
-- 🌱 I’m currently learning **Python, React, Nodejs**
+🌱 I’m currently learning **Python, React, Nodejs**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+🚀 Portfolio https://thilinadilshan22.github.io/my--portfolio/
 
-- 💬 Ask me about **Python, React, Nodejs**
+👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **thilinadilshan626@gmail.com**
+💬 Ask me about **Python, React, Nodejs**
+
+📫 How to reach me: **thilinadilshan626@gmail.com**
 
 <br/>
 

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **Python, React, Nodejs**
 
-🚀 Portfolio https://thilinadilshan22.github.io/my--portfolio/
-
 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-💬 Ask me about **Python, React, Nodejs**
+💬 Ask me about **Python, React, Nodejs, UI/UX Design (Figma/Canva)**
+
+🚀 Portfolio https://thilinadilshan22.github.io/my--portfolio/
 
 📫 How to reach me: **thilinadilshan626@gmail.com**
 
